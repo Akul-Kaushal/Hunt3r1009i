@@ -10,7 +10,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akul-Kaushal&show_icons=true&locale=en" alt="contri" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akul-Kaushal" alt="contri" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 

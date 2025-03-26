@@ -11,5 +11,6 @@
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akul-Kaushal&" alt="contri" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akul-Kaushal" alt="contri" />
 </p>
+
